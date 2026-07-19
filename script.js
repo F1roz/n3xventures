@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
   (function initBookingModal(){
 
     // ⚠️ CONFIG — replace these two placeholders with your real endpoints before going live.
-    const CALENDLY_URL = "https://calendly.com/YOUR-CALENDLY-USERNAME/strategy-call"; // <-- your real Calendly event link
-    const FORMSPREE_URL = "https://formspree.io/f/YOUR_FORM_ID"; // <-- your real Formspree (or other form backend) endpoint
+    const CALENDLY_URL = "https://calendly.com/n3xventures/30min"; // <-- your real Calendly event link
+    const FORMSPREE_URL = "https://formspree.io/f/mkodrpyn"; // <-- your real Formspree (or other form backend) endpoint
 
     const SERVICE_OPTIONS = [
       "AI Automation","Paid Ads","SEO & GEO","Lead Generation","Websites",
@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (CALENDLY_URL.indexOf('YOUR-CALENDLY-USERNAME') !== -1) {
         frameWrap.innerHTML = `<div class="booking-fallback">
           <p><strong>Calendly isn't connected yet.</strong><br>Add your real Calendly link in script.js (CALENDLY_URL) to enable live booking here.</p>
-          <a href="mailto:?subject=Strategy Call Request&body=Name: ${encodeURIComponent(data.name)}%0APhone: ${encodeURIComponent(data.phone)}%0AEmail: ${encodeURIComponent(data.email)}%0AService: ${encodeURIComponent(data.service)}%0AIndustry: ${encodeURIComponent(data.niche)}" class="btn btn-primary">Email Us Instead</a>
+          <a href="mailto:n3xventures@gmail.com?subject=Strategy Call Request&body=Name: ${encodeURIComponent(data.name)}%0APhone: ${encodeURIComponent(data.phone)}%0AEmail: ${encodeURIComponent(data.email)}%0AService: ${encodeURIComponent(data.service)}%0AIndustry: ${encodeURIComponent(data.niche)}" class="btn btn-primary">Email Us Instead</a>
         </div>`;
       } else {
         const params = new URLSearchParams({
