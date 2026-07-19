@@ -217,6 +217,15 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   })();
+   /* ---------- Fix: move mobile-nav out of <header> ----------
+     .site-header uses backdrop-filter, which creates a new containing
+     block for position:fixed children — breaking the mobile menu's
+     fixed positioning once you scroll. Relocating these two elements
+     to be direct children of <body> fixes it site-wide. */
+     const mobileNavEl = document.getElementById('mobile-nav');
+     const mobileOverlayEl = document.getElementById('mobile-overlay');
+     if (mobileNavEl) document.body.appendChild(mobileNavEl);
+     if (mobileOverlayEl) document.body.appendChild(mobileOverlayEl);
 
   /* ---------- Mobile nav ---------- */
   const hamburger = document.getElementById('hamburger');
