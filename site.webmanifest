@@ -1,0 +1,27 @@
+{
+ "name": "N3X Ventures",
+ "short_name": "N3X",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#101118",
+ "theme_color": "#101118",
+ "description": "AI-powered growth marketing agency.",
+ "icons": [
+  {
+   "src": "/assets/brand/favicon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/brand/favicon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/brand/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
