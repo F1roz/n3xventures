@@ -392,7 +392,9 @@ a.card:hover { transform: translateY(-4px); }
 .compare-col--good .badge { background: var(--grad); color: #06231b; }
 .compare-col--good li svg { color: var(--mint); }
 .compare-vs { display: grid; place-items: center; width: 0; position: relative; z-index: 2; }
-.compare-vs span { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; background: var(--paper); border: 1px solid var(--line-paper); font-family: var(--f-mono); font-weight: 600; font-size: .8rem; color: var(--ink-text); box-shadow: var(--shadow-paper); }
+/* .compare-vs span { width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; background: var(--paper); border: 1px solid var(--line-paper); font-family: var(--f-mono); font-weight: 600; font-size: .8rem; color: var(--ink-text); box-shadow: var(--shadow-paper); } */
+.compare-vs::before { content: ""; position: absolute; left: 50%; top: 50%; width: 60px; height: 60px; transform: translate(-50%, -50%); border-radius: 50%; background: linear-gradient(90deg, #f3efe8 50%, #101118 50%); box-shadow: 0 0 0 3px #fff, 0 0 0 4px rgba(34, 229, 176, .5), 0 10px 24px -8px rgba(0, 0, 0, .35); }
+.compare-vs span { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); padding-left: .06em; font-family: var(--f-display); font-weight: 800; font-size: 1.15rem; letter-spacing: .06em; line-height: 1; background: linear-gradient(90deg, #c4441f 50%, #22e5b0 50%); -webkit-background-clip: text; background-clip: text; color: transparent; }
 
 /* ---------- Steps ---------- */
 .steps { display: grid; grid-template-columns: repeat(var(--n, 5), 1fr); gap: 16px; counter-reset: step; position: relative; }
@@ -859,7 +861,9 @@ body.is-article .site-header { background: rgba(16, 17, 24, .97); }
   .bento-card--photo { min-height: 300px; }
   .bento-card .ico { margin-bottom: 0; }
   .compare { grid-template-columns: 1fr; }
-  .compare-vs { width: auto; height: 0; }
+  /* .compare-vs { width: auto; height: 0; } */
+  .compare-vs::before { background: linear-gradient(180deg, #f3efe8 50%, #101118 50%); }
+  .compare-vs span { background-image: linear-gradient(180deg, #c4441f 50%, #22e5b0 50%); }
   .compare-col--good { padding-top: 48px; }
   .ind-card--realty { aspect-ratio: auto !important; }
   .steps { grid-template-columns: 1fr; }
