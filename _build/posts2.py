@@ -467,7 +467,7 @@ POSTS_B = [
 <p>Our <a href="/services/branding">branding service</a> covers positioning, identity and messaging — and pairs naturally with a <a href="/services/websites">conversion-first website</a>. <a href="/contact">Book a free strategy call</a> to talk through your brand.</p>
 """,
 "faq": [
-{"q": "How much does branding cost for a small business?", "a": "It ranges widely depending on scope. N3X Ventures branding packages start at $1,999, covering positioning and core identity, with larger packages adding full guidelines, messaging and rollout assets."},
+{"q": "How much does branding cost for a small business?", "a": "It ranges widely depending on scope. N3X Ventures branding packages start at $499, covering positioning and core identity, with larger packages adding full guidelines, messaging and rollout assets."},
 {"q": "How long does a rebrand take?", "a": "A focused small-business rebrand typically takes four to eight weeks from discovery to final brand guidelines, with website and asset rollout following after."},
 {"q": "Do I need a rebrand or just a new logo?", "a": "If people understand what you do and you attract the right clients, a visual refresh may be enough. If you struggle with positioning, pricing or explaining your difference, you need strategy first, then visuals."},
 ],

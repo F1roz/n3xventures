@@ -183,7 +183,7 @@ def build_home():
     rows = "".join(f'<div class="lead-row"><div><b>{E(a)}</b><br><span>{E(b)}</span></div><i>{E(c)}</i></div>' for a, b, c in feed_rows)
     # bento
     order = ["ai-automation", "seo-geo", "paid-ads", "lead-generation", "social-media", "websites", "linkedin-marketing", "content-creation", "video-editing", "branding"]
-    layout = {"ai-automation": "bento-card--wide", "seo-geo": "bento-card--wide bento-card--accent",
+    layout = {"ai-automation": "bento-card--wide bento-card--accent", "seo-geo": "bento-card--wide",
               "websites": "bento-card--wide", "linkedin-marketing": "bento-card--wide"}
     bento = []
     for i, s in enumerate(order):
@@ -606,7 +606,7 @@ def build_coaches():
 {cta_block(d["cta"]["h2"], d["cta"]["p"], niche="Coaches & Consultants")}
 """
     svc_schema = {"@type": "Service", "name": "Marketing & growth systems for coaches", "provider": {"@id": ORG_ID}, "audience": {"@type": "Audience", "name": "Coaches, consultants and course creators"},
-                  "offers": {"@type": "AggregateOffer", "priceCurrency": "USD", "lowPrice": 699, "highPrice": 2999, "offerCount": 3}, "url": BASE + "/coaches"}
+                  "offers": {"@type": "AggregateOffer", "priceCurrency": "USD", "lowPrice": 499, "highPrice": 1799, "offerCount": 3}, "url": BASE + "/coaches"}
     write("/coaches", page("Marketing for Coaches & Course Creators | N3X Ventures", clip(h["p"], 158), "/coaches", body, active="coaches",
           schema=[svc_schema, crumbs_schema(trail), faq_schema(d["faq"]["items"])], preload="/assets/img/ind-coaches.webp"), priority="0.9")
 
@@ -927,7 +927,7 @@ Sitemap: {BASE}/sitemap.xml
 
 ## Industries
 {ind_lines}
-- [Coaches & Consultants]({BASE}/coaches): funnels, personal brand, content and automation for coaches and course creators. Plans from $699/month.
+- [Coaches & Consultants]({BASE}/coaches): funnels, personal brand, content and automation for coaches and course creators. Plans from $499/month.
 
 ## Guides
 {blog_lines}

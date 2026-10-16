@@ -312,7 +312,7 @@ POSTS_A = [
 <p>Pick the one automation tied to your biggest leak, set it up properly, and measure it for 30 days. Then add the next. If you'd like a team to design and build it, our <a href="/services/ai-automation">AI automation service</a> covers chatbots, voice agents, CRM workflows and integrations — and <a href="/contact">the first strategy call is free</a>.</p>
 """,
 "faq": [
-{"q": "How much does AI automation cost for a small business?", "a": "It depends on scope, but many single workflows like lead response or review requests can be built and run for a modest monthly fee. N3X Ventures AI automation plans start at $899 per month, month-to-month."},
+{"q": "How much does AI automation cost for a small business?", "a": "It depends on scope, but many single workflows like lead response or review requests can be built and run for a modest monthly fee. N3X Ventures AI automation plans start at $499 per month, month-to-month."},
 {"q": "Do I need to replace my current CRM?", "a": "Usually not. Most automations integrate with popular CRMs and booking tools. If you don't have a CRM, we can set one up as part of the project."},
 {"q": "Is AI automation safe for healthcare or legal businesses?", "a": "It can be, with the right setup. Sensitive data should be minimized, tools should meet your compliance requirements, and the AI should never give medical or legal advice — it should qualify, inform and route to a professional."},
 ],

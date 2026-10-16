@@ -10,42 +10,42 @@
 - Sister brand for real estate agents: https://n3xrealty.vercel.app
 
 ## Services
-- [AI Automation](https://n3xventures.vercel.app/services/ai-automation): Chatbots, voice agents & CRM workflows that never sleep. Plans from $899/month.
-- [Paid Ads](https://n3xventures.vercel.app/services/paid-ads): Google, Meta, LinkedIn & YouTube built for booked calls. Plans from $999/month.
-- [SEO & GEO](https://n3xventures.vercel.app/services/seo-geo): Rank on Google and get cited by ChatGPT & AI search. Plans from $899/month.
-- [Lead Generation](https://n3xventures.vercel.app/services/lead-generation): Outreach, funnels & nurture that fill your calendar. Plans from $999/month.
-- [Websites](https://n3xventures.vercel.app/services/websites): Fast, conversion-first sites & landing pages. Plans from $1,499/month.
-- [Social Media](https://n3xventures.vercel.app/services/social-media): Strategy & daily management across every platform. Plans from $799/month.
-- [LinkedIn Marketing](https://n3xventures.vercel.app/services/linkedin-marketing): Founder-led content & outbound for B2B. Plans from $699/month.
-- [Content Creation](https://n3xventures.vercel.app/services/content-creation): Blogs, copy & calendars that build authority. Plans from $799/month.
-- [Video Editing](https://n3xventures.vercel.app/services/video-editing): Reels, YouTube & podcasts that hold attention. Plans from $699/month.
-- [Branding](https://n3xventures.vercel.app/services/branding): Identity & positioning that justifies premium prices. Plans from $1,999/month.
+- [AI Automation](https://n3xventures.vercel.app/services/ai-automation): Chatbots, voice agents & CRM workflows that never sleep. Plans from $499/month.
+- [Paid Ads](https://n3xventures.vercel.app/services/paid-ads): Google, Meta, LinkedIn & YouTube built for booked calls. Plans from $499/month.
+- [SEO & GEO](https://n3xventures.vercel.app/services/seo-geo): Rank on Google and get cited by ChatGPT & AI search. Plans from $499/month.
+- [Lead Generation](https://n3xventures.vercel.app/services/lead-generation): Outreach, funnels & nurture that fill your calendar. Plans from $499/month.
+- [Websites](https://n3xventures.vercel.app/services/websites): Fast, conversion-first sites & landing pages. Plans from $499/month.
+- [Social Media](https://n3xventures.vercel.app/services/social-media): Strategy & daily management across every platform. Plans from $499/month.
+- [LinkedIn Marketing](https://n3xventures.vercel.app/services/linkedin-marketing): Founder-led content & outbound for B2B. Plans from $499/month.
+- [Content Creation](https://n3xventures.vercel.app/services/content-creation): Blogs, copy & calendars that build authority. Plans from $499/month.
+- [Video Editing](https://n3xventures.vercel.app/services/video-editing): Reels, YouTube & podcasts that hold attention. Plans from $499/month.
+- [Branding](https://n3xventures.vercel.app/services/branding): Identity & positioning that justifies premium prices. Plans from $499/month.
 
 ## Industries
-- [Roofing](https://n3xventures.vercel.app/niches/roofing): growth marketing for roofing companies. Plans from $799/month.
-- [HVAC](https://n3xventures.vercel.app/niches/hvac): growth marketing for HVAC companies. Plans from $799/month.
-- [Plumbing](https://n3xventures.vercel.app/niches/plumbing): growth marketing for plumbing companies. Plans from $799/month.
-- [Electrical](https://n3xventures.vercel.app/niches/electrical): growth marketing for electricians. Plans from $799/month.
-- [Solar](https://n3xventures.vercel.app/niches/solar): growth marketing for solar installers. Plans from $799/month.
-- [Landscaping](https://n3xventures.vercel.app/niches/landscaping): growth marketing for landscaping businesses. Plans from $799/month.
-- [Remodeling](https://n3xventures.vercel.app/niches/remodeling): growth marketing for remodeling contractors. Plans from $799/month.
-- [Dentists](https://n3xventures.vercel.app/niches/dentists): growth marketing for dental practices. Plans from $999/month.
-- [Med Spas](https://n3xventures.vercel.app/niches/med-spas): growth marketing for med spas. Plans from $999/month.
-- [Plastic Surgeons](https://n3xventures.vercel.app/niches/plastic-surgeons): growth marketing for plastic surgery practices. Plans from $999/month.
-- [Dermatologists](https://n3xventures.vercel.app/niches/dermatologists): growth marketing for dermatology practices. Plans from $999/month.
-- [Chiropractors](https://n3xventures.vercel.app/niches/chiropractors): growth marketing for chiropractic clinics. Plans from $999/month.
-- [Physical Therapy](https://n3xventures.vercel.app/niches/physical-therapy): growth marketing for physical therapy clinics. Plans from $999/month.
-- [Lawyers](https://n3xventures.vercel.app/niches/lawyers): growth marketing for law firms. Plans from $1,199/month.
-- [Financial Advisors](https://n3xventures.vercel.app/niches/financial-advisors): growth marketing for financial advisors. Plans from $1,199/month.
-- [Insurance](https://n3xventures.vercel.app/niches/insurance): growth marketing for insurance agencies. Plans from $1,199/month.
-- [Mortgage Brokers](https://n3xventures.vercel.app/niches/mortgage-brokers): growth marketing for mortgage brokers. Plans from $1,199/month.
-- [Accounting](https://n3xventures.vercel.app/niches/accounting): growth marketing for accounting firms. Plans from $1,199/month.
-- [SaaS](https://n3xventures.vercel.app/niches/saas): growth marketing for SaaS companies. Plans from $999/month.
-- [E-commerce](https://n3xventures.vercel.app/niches/ecommerce): growth marketing for e-commerce brands. Plans from $999/month.
-- [Marketing Agencies](https://n3xventures.vercel.app/niches/marketing-agencies): growth marketing for marketing agencies. Plans from $999/month.
-- [Recruitment](https://n3xventures.vercel.app/niches/recruitment): growth marketing for recruitment agencies. Plans from $999/month.
-- [IT & MSP](https://n3xventures.vercel.app/niches/it-msp): growth marketing for IT & MSP companies. Plans from $999/month.
-- [Coaches & Consultants](https://n3xventures.vercel.app/coaches): funnels, personal brand, content and automation for coaches and course creators. Plans from $699/month.
+- [Roofing](https://n3xventures.vercel.app/niches/roofing): growth marketing for roofing companies. Plans from $499/month.
+- [HVAC](https://n3xventures.vercel.app/niches/hvac): growth marketing for HVAC companies. Plans from $499/month.
+- [Plumbing](https://n3xventures.vercel.app/niches/plumbing): growth marketing for plumbing companies. Plans from $499/month.
+- [Electrical](https://n3xventures.vercel.app/niches/electrical): growth marketing for electricians. Plans from $499/month.
+- [Solar](https://n3xventures.vercel.app/niches/solar): growth marketing for solar installers. Plans from $499/month.
+- [Landscaping](https://n3xventures.vercel.app/niches/landscaping): growth marketing for landscaping businesses. Plans from $499/month.
+- [Remodeling](https://n3xventures.vercel.app/niches/remodeling): growth marketing for remodeling contractors. Plans from $499/month.
+- [Dentists](https://n3xventures.vercel.app/niches/dentists): growth marketing for dental practices. Plans from $499/month.
+- [Med Spas](https://n3xventures.vercel.app/niches/med-spas): growth marketing for med spas. Plans from $499/month.
+- [Plastic Surgeons](https://n3xventures.vercel.app/niches/plastic-surgeons): growth marketing for plastic surgery practices. Plans from $499/month.
+- [Dermatologists](https://n3xventures.vercel.app/niches/dermatologists): growth marketing for dermatology practices. Plans from $499/month.
+- [Chiropractors](https://n3xventures.vercel.app/niches/chiropractors): growth marketing for chiropractic clinics. Plans from $499/month.
+- [Physical Therapy](https://n3xventures.vercel.app/niches/physical-therapy): growth marketing for physical therapy clinics. Plans from $499/month.
+- [Lawyers](https://n3xventures.vercel.app/niches/lawyers): growth marketing for law firms. Plans from $499/month.
+- [Financial Advisors](https://n3xventures.vercel.app/niches/financial-advisors): growth marketing for financial advisors. Plans from $499/month.
+- [Insurance](https://n3xventures.vercel.app/niches/insurance): growth marketing for insurance agencies. Plans from $499/month.
+- [Mortgage Brokers](https://n3xventures.vercel.app/niches/mortgage-brokers): growth marketing for mortgage brokers. Plans from $499/month.
+- [Accounting](https://n3xventures.vercel.app/niches/accounting): growth marketing for accounting firms. Plans from $499/month.
+- [SaaS](https://n3xventures.vercel.app/niches/saas): growth marketing for SaaS companies. Plans from $499/month.
+- [E-commerce](https://n3xventures.vercel.app/niches/ecommerce): growth marketing for e-commerce brands. Plans from $499/month.
+- [Marketing Agencies](https://n3xventures.vercel.app/niches/marketing-agencies): growth marketing for marketing agencies. Plans from $499/month.
+- [Recruitment](https://n3xventures.vercel.app/niches/recruitment): growth marketing for recruitment agencies. Plans from $499/month.
+- [IT & MSP](https://n3xventures.vercel.app/niches/it-msp): growth marketing for IT & MSP companies. Plans from $499/month.
+- [Coaches & Consultants](https://n3xventures.vercel.app/coaches): funnels, personal brand, content and automation for coaches and course creators. Plans from $499/month.
 
 ## Guides
 - [What Is GEO? How to Get Your Business Recommended by ChatGPT, Gemini & Perplexity](https://n3xventures.vercel.app/blog/what-is-generative-engine-optimization-geo): Generative Engine Optimization (GEO) is how you get cited by AI search. Here's what it is, how it differs from SEO, and a practical checklist to start today.

@@ -147,7 +147,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$899",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "One AI chatbot or voice agent",
@@ -162,7 +162,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -178,7 +178,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -331,7 +331,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$1,999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Brand positioning & messaging",
@@ -346,7 +346,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$3,999",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -362,7 +362,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$6,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -533,7 +533,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "4 blog articles per month",
@@ -548,7 +548,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$1,899",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -564,7 +564,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -735,7 +735,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Cold email outreach (1 list)",
@@ -750,7 +750,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -766,7 +766,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$4,199",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -943,7 +943,7 @@
      {
       "name": "Solo Starter",
       "desc": "For individual founders & consultants",
-      "amount": "$699",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Solo profile branding & optimization",
@@ -958,7 +958,7 @@
      {
       "name": "Growth",
       "desc": "For solo brands or companies ready to generate leads",
-      "amount": "$1,899",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Solo Starter",
@@ -974,7 +974,7 @@
      {
       "name": "Authority & Ads",
       "desc": "Full-scale personal brand, company page & paid growth",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -1135,7 +1135,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Management on 1 ad platform",
@@ -1150,7 +1150,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -1166,7 +1166,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -1319,7 +1319,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$899",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Technical SEO audit & fixes",
@@ -1334,7 +1334,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$1,999",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -1350,7 +1350,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$3,699",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -1503,7 +1503,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Management on 2 platforms",
@@ -1518,7 +1518,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -1534,7 +1534,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$3,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -1687,7 +1687,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$699",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "8 short-form edits per month",
@@ -1702,7 +1702,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$1,699",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -1718,7 +1718,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$3,199",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -1871,7 +1871,7 @@
      {
       "name": "Starter",
       "desc": "Get the foundation in place",
-      "amount": "$1,499",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "5-page conversion-focused website",
@@ -1886,7 +1886,7 @@
      {
       "name": "Growth",
       "desc": "For businesses ready to scale",
-      "amount": "$3,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -1902,7 +1902,7 @@
      {
       "name": "Enterprise",
       "desc": "Full-scale, dedicated execution",
-      "amount": "$6,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -2065,7 +2065,7 @@
      {
       "name": "Starter",
       "desc": "For accounting firms building a foundation",
-      "amount": "$1,199",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for accounting firms",
@@ -2080,7 +2080,7 @@
      {
       "name": "Growth",
       "desc": "For accounting firms ready to scale predictably",
-      "amount": "$2,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -2096,7 +2096,7 @@
      {
       "name": "Market Leader",
       "desc": "For accounting firms targeting category dominance",
-      "amount": "$4,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -2257,7 +2257,7 @@
      {
       "name": "Starter",
       "desc": "For chiropractors building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for chiropractors",
@@ -2272,7 +2272,7 @@
      {
       "name": "Growth",
       "desc": "For chiropractors ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -2288,7 +2288,7 @@
      {
       "name": "Market Leader",
       "desc": "For chiropractors targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -2449,7 +2449,7 @@
      {
       "name": "Starter",
       "desc": "For dentists building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for dentists",
@@ -2464,7 +2464,7 @@
      {
       "name": "Growth",
       "desc": "For dentists ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -2480,7 +2480,7 @@
      {
       "name": "Market Leader",
       "desc": "For dentists targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -2641,7 +2641,7 @@
      {
       "name": "Starter",
       "desc": "For dermatologists building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for dermatologists",
@@ -2656,7 +2656,7 @@
      {
       "name": "Growth",
       "desc": "For dermatologists ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -2672,7 +2672,7 @@
      {
       "name": "Market Leader",
       "desc": "For dermatologists targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -2833,7 +2833,7 @@
      {
       "name": "Starter",
       "desc": "For e-commerce brands building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for e-commerce brands",
@@ -2848,7 +2848,7 @@
      {
       "name": "Growth",
       "desc": "For e-commerce brands ready to scale predictably",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -2864,7 +2864,7 @@
      {
       "name": "Market Leader",
       "desc": "For e-commerce brands targeting category dominance",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3025,7 +3025,7 @@
      {
       "name": "Starter",
       "desc": "For electricians building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for electricians",
@@ -3040,7 +3040,7 @@
      {
       "name": "Growth",
       "desc": "For electricians ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -3056,7 +3056,7 @@
      {
       "name": "Market Leader",
       "desc": "For electricians targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3217,7 +3217,7 @@
      {
       "name": "Starter",
       "desc": "For financial advisory practices building a foundation",
-      "amount": "$1,199",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for financial advisory practices",
@@ -3232,7 +3232,7 @@
      {
       "name": "Growth",
       "desc": "For financial advisory practices ready to scale predictably",
-      "amount": "$2,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -3248,7 +3248,7 @@
      {
       "name": "Market Leader",
       "desc": "For financial advisory practices targeting category dominance",
-      "amount": "$4,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3409,7 +3409,7 @@
      {
       "name": "Starter",
       "desc": "For hvac companies building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for hvac companies",
@@ -3424,7 +3424,7 @@
      {
       "name": "Growth",
       "desc": "For hvac companies ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -3440,7 +3440,7 @@
      {
       "name": "Market Leader",
       "desc": "For hvac companies targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3601,7 +3601,7 @@
      {
       "name": "Starter",
       "desc": "For insurance agencies building a foundation",
-      "amount": "$1,199",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for insurance agencies",
@@ -3616,7 +3616,7 @@
      {
       "name": "Growth",
       "desc": "For insurance agencies ready to scale predictably",
-      "amount": "$2,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -3632,7 +3632,7 @@
      {
       "name": "Market Leader",
       "desc": "For insurance agencies targeting category dominance",
-      "amount": "$4,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3793,7 +3793,7 @@
      {
       "name": "Starter",
       "desc": "For it & msp companies building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for it & msp companies",
@@ -3808,7 +3808,7 @@
      {
       "name": "Growth",
       "desc": "For it & msp companies ready to scale predictably",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -3824,7 +3824,7 @@
      {
       "name": "Market Leader",
       "desc": "For it & msp companies targeting category dominance",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -3985,7 +3985,7 @@
      {
       "name": "Starter",
       "desc": "For landscaping businesses building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for landscaping businesses",
@@ -4000,7 +4000,7 @@
      {
       "name": "Growth",
       "desc": "For landscaping businesses ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4016,7 +4016,7 @@
      {
       "name": "Market Leader",
       "desc": "For landscaping businesses targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -4177,7 +4177,7 @@
      {
       "name": "Starter",
       "desc": "For law firms building a foundation",
-      "amount": "$1,199",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for law firms",
@@ -4192,7 +4192,7 @@
      {
       "name": "Growth",
       "desc": "For law firms ready to scale predictably",
-      "amount": "$2,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4208,7 +4208,7 @@
      {
       "name": "Market Leader",
       "desc": "For law firms targeting category dominance",
-      "amount": "$4,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -4369,7 +4369,7 @@
      {
       "name": "Starter",
       "desc": "For marketing agencies building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for marketing agencies",
@@ -4384,7 +4384,7 @@
      {
       "name": "Growth",
       "desc": "For marketing agencies ready to scale predictably",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4400,7 +4400,7 @@
      {
       "name": "Market Leader",
       "desc": "For marketing agencies targeting category dominance",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -4561,7 +4561,7 @@
      {
       "name": "Starter",
       "desc": "For med spas building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for med spas",
@@ -4576,7 +4576,7 @@
      {
       "name": "Growth",
       "desc": "For med spas ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4592,7 +4592,7 @@
      {
       "name": "Market Leader",
       "desc": "For med spas targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -4753,7 +4753,7 @@
      {
       "name": "Starter",
       "desc": "For mortgage brokerages building a foundation",
-      "amount": "$1,199",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for mortgage brokerages",
@@ -4768,7 +4768,7 @@
      {
       "name": "Growth",
       "desc": "For mortgage brokerages ready to scale predictably",
-      "amount": "$2,499",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4784,7 +4784,7 @@
      {
       "name": "Market Leader",
       "desc": "For mortgage brokerages targeting category dominance",
-      "amount": "$4,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -4945,7 +4945,7 @@
      {
       "name": "Starter",
       "desc": "For physical therapy clinics building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for physical therapy clinics",
@@ -4960,7 +4960,7 @@
      {
       "name": "Growth",
       "desc": "For physical therapy clinics ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -4976,7 +4976,7 @@
      {
       "name": "Market Leader",
       "desc": "For physical therapy clinics targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -5137,7 +5137,7 @@
      {
       "name": "Starter",
       "desc": "For plastic surgeons building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for plastic surgeons",
@@ -5152,7 +5152,7 @@
      {
       "name": "Growth",
       "desc": "For plastic surgeons ready to scale predictably",
-      "amount": "$2,199",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -5168,7 +5168,7 @@
      {
       "name": "Market Leader",
       "desc": "For plastic surgeons targeting category dominance",
-      "amount": "$3,999",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -5329,7 +5329,7 @@
      {
       "name": "Starter",
       "desc": "For plumbing services building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for plumbing services",
@@ -5344,7 +5344,7 @@
      {
       "name": "Growth",
       "desc": "For plumbing services ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -5360,7 +5360,7 @@
      {
       "name": "Market Leader",
       "desc": "For plumbing services targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -5521,7 +5521,7 @@
      {
       "name": "Starter",
       "desc": "For recruitment agencies building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for recruitment agencies",
@@ -5536,7 +5536,7 @@
      {
       "name": "Growth",
       "desc": "For recruitment agencies ready to scale predictably",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -5552,7 +5552,7 @@
      {
       "name": "Market Leader",
       "desc": "For recruitment agencies targeting category dominance",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -5713,7 +5713,7 @@
      {
       "name": "Starter",
       "desc": "For remodeling contractors building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for remodeling contractors",
@@ -5728,7 +5728,7 @@
      {
       "name": "Growth",
       "desc": "For remodeling contractors ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -5744,7 +5744,7 @@
      {
       "name": "Market Leader",
       "desc": "For remodeling contractors targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -5905,7 +5905,7 @@
      {
       "name": "Starter",
       "desc": "For roofing companies building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for roofing companies",
@@ -5920,7 +5920,7 @@
      {
       "name": "Growth",
       "desc": "For roofing companies ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -5936,7 +5936,7 @@
      {
       "name": "Market Leader",
       "desc": "For roofing companies targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -6097,7 +6097,7 @@
      {
       "name": "Starter",
       "desc": "For saas companies building a foundation",
-      "amount": "$999",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for saas companies",
@@ -6112,7 +6112,7 @@
      {
       "name": "Growth",
       "desc": "For saas companies ready to scale predictably",
-      "amount": "$2,299",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -6128,7 +6128,7 @@
      {
       "name": "Market Leader",
       "desc": "For saas companies targeting category dominance",
-      "amount": "$4,299",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -6289,7 +6289,7 @@
      {
       "name": "Starter",
       "desc": "For solar installers building a foundation",
-      "amount": "$799",
+      "amount": "$499",
       "period": "per month",
       "features": [
        "Local SEO foundation for solar installers",
@@ -6304,7 +6304,7 @@
      {
       "name": "Growth",
       "desc": "For solar installers ready to scale predictably",
-      "amount": "$1,799",
+      "amount": "$899",
       "period": "per month",
       "features": [
        "Everything in Starter",
@@ -6320,7 +6320,7 @@
      {
       "name": "Market Leader",
       "desc": "For solar installers targeting category dominance",
-      "amount": "$3,499",
+      "amount": "$1,799",
       "period": "per month",
       "features": [
        "Everything in Growth",
@@ -6519,7 +6519,7 @@
     {
      "name": "Emerging Coach",
      "desc": "For coaches starting to build their online presence",
-     "amount": "$699",
+     "amount": "$499",
      "period": "per month",
      "features": [
       "Social media management (3 platforms)",
@@ -6534,7 +6534,7 @@
     {
      "name": "Growth Accelerator",
      "desc": "For coaches ready to scale predictably",
-     "amount": "$1,499",
+     "amount": "$899",
      "period": "per month",
      "features": [
       "Full social media management + paid ads",
@@ -6550,7 +6550,7 @@
     {
      "name": "Authority & Scale",
      "desc": "For established coaches targeting 7 figures",
-     "amount": "$2,999",
+     "amount": "$1,799",
      "period": "per month",
      "features": [
       "Everything in Growth Accelerator",
